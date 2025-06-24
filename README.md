@@ -1,2 +1,9 @@
-# Portfolio-Website
-Explore my collection of projects, skills, and creative work. This site showcases what I do, how I think, and what I’m passionate about. Feel free to look around and get in touch!
+# My Portfolio Website
+
+This is my personal portfolio website. It shows some of my projects, skills, and work. You can visit the website to learn more about what I do.
+
+# What's Inside
+
+- My projects
+- My skills
+- A contact section
